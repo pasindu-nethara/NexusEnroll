@@ -1,0 +1,4 @@
+faculty_id,name,email,department,status
+F001,Dr. Nadia Perera,nadia.perera@nexusuni.edu,Computer Science,ACTIVE
+F002,Dr. Ruwan Silva,ruwan.silva@nexusuni.edu,Business,ACTIVE
+F003,Dr. Malini Jayasuriya,malini.j@nexusuni.edu,Mathematics,ACTIVE

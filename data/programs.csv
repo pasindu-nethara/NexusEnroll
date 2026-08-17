@@ -1,0 +1,3 @@
+program_id,name,required_courses,total_credits
+P001,BSc Computer Science,CS101;CS201;CS301;MATH101,120
+P002,BSc Business Administration,BUS101;BUS210,108
