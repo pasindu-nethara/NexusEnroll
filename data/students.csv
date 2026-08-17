@@ -1,0 +1,5 @@
+student_id,name,email,advisor,program_id,status,completed_courses,enrolled_course_ids,waitlisted_course_ids
+S001,Kasun Fernando,kasun.f@nexusuni.edu,Dr. Nadia Perera,P001,ACTIVE,CS101:A,CS201,
+S002,Amaya Jayasuriya,amaya.j@nexusuni.edu,Dr. Nadia Perera,P001,ACTIVE,CS101:A;CS201:B+,CS301,
+S003,Tharindu Bandara,tharindu.b@nexusuni.edu,Dr. Ruwan Silva,P002,ACTIVE,,BUS210,
+S004,Nimal Jayawardena,nimal.j@nexusuni.edu,Dr. Nadia Perera,P001,ACTIVE,,BUS210,

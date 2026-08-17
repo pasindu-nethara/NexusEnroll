@@ -1,0 +1,7 @@
+course_id,code,name,description,department,instructor_id,capacity,days,start_time,end_time,location,prerequisites,enrolled_student_ids,waitlisted_student_ids,semester
+CS101,CS101,Introduction to Programming,Fundamentals of programming using Python.,Computer Science,F001,3,Mon;Wed,09:00,10:30,Room A1,,,,2026-S2
+CS150,CS150,Intro to Web Development,Building basic web pages with HTML/CSS/JS.,Computer Science,F001,40,Mon;Wed,09:00,10:30,Room A2,,,,2026-S2
+CS201,CS201,Data Structures and Algorithms,"Core data structures, complexity analysis and algorithms.",Computer Science,F001,2,Tue;Thu,11:00,12:30,Room B1,CS101,S001,,2026-S2
+CS301,CS301,Software Architecture,Architectural and design patterns for large systems.,Computer Science,F001,3,Tue;Thu,13:00,14:30,Room B2,CS201,S002,,2026-S2
+MATH101,MATH101,Calculus I,"Limits, derivatives and integrals.",Mathematics,F003,50,Tue;Thu,08:00,09:30,Room C1,,,,2026-S2
+BUS210,BUS210,Principles of Marketing,Foundations of marketing strategy and consumer behaviour.,Business,F002,2,Mon;Wed,13:00,14:30,Room C3,,S003;S004,,2026-S2
